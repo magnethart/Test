@@ -1,5 +1,7 @@
 <html>
+<head>
 <title>Test GITHUB</title>
+</head>
 <body>
 <style type="css/text">
 p {
